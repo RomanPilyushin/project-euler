@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ProjectEuler.dir/src/main.cpp.o CMakeFiles/ProjectEuler.dir/src/p001.cpp.o -o ProjectEuler 
